@@ -1,2 +1,6 @@
 # 4305-TetrisGame-Web
-GROUP: H.Q.Dat - D.T.Hoa - P.H.Danh - T.V.Dan
+Members of Group:
+1. Huynh Quoc Dat
+2. Dam Thuyet Hoa
+3. Tran Van Dan
+4. Pham Huu Danh
